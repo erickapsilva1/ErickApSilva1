@@ -28,4 +28,4 @@
   
 ##
     
-![Snake animation](https://github.com/erickapsilva1/erickapsilva1/blob/output/github-contribuition-grid-snake.svg)
+![Snake animation](https://github.com/erickapsilva1/ErickApSilva1/blob/output/github-contribution-grid-snake.svg)
