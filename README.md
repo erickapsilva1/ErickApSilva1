@@ -28,7 +28,7 @@
   
 ### My Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericksilva1)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=erickapsilva1)](https://git.io/streak-stats)
 
 ### Contributions
 
